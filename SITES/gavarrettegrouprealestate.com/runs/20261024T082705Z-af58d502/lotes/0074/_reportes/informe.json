@@ -1,0 +1,1667 @@
+{
+  "sitio": "https://gavarrettegrouprealestate.com/",
+  "fecha": "2026-10-24T14:14:23.432577+00:00",
+  "paginas": [
+    "https://gavarrettegrouprealestate.com/index.php/tipo-propiedad/oficina/?view=grid",
+    "https://gavarrettegrouprealestate.com/index.php/tipo-propiedad/tienda/?view=list",
+    "https://gavarrettegrouprealestate.com/index.php/tipo-propiedad/tienda/?view=grid",
+    "https://gavarrettegrouprealestate.com/index.php/tipo-propiedad/villa/?view=list",
+    "https://gavarrettegrouprealestate.com/index.php/tipo-propiedad/villa/?view=grid",
+    "https://gavarrettegrouprealestate.com/index.php/2-columns-gallery/page/5/",
+    "https://gavarrettegrouprealestate.com/index.php/2-columns-gallery/page/6/",
+    "https://gavarrettegrouprealestate.com/index.php/2-columns-gallery/page/7/",
+    "https://gavarrettegrouprealestate.com/index.php/2-columns-gallery/page/15/",
+    "https://gavarrettegrouprealestate.com/index.php/2-columns-gallery/page/13/"
+  ],
+  "paginas_guardadas": 10,
+  "recursos_descargados": 0,
+  "fotografias_descargadas": 0,
+  "bytes_fotografias": 0,
+  "recursos_pendientes": 93,
+  "presupuesto_recursos_bytes": 110100480,
+  "recursos_bytes": 0,
+  "maximo_paginas": 10,
+  "paginas_pendientes": 0,
+  "fichas_inmobiliarias": 0,
+  "limite_alcanzado": false,
+  "modo_navegador": false,
+  "advertencia_navegador": "",
+  "recursos": [],
+  "recursos_externos_omitidos": [
+    "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i|Lato:400,400i,700,700i|Roboto:400,400i,500,500i,700,700i&subset=latin%2Clatin-ext&display=fallback&ver=4.3.9",
+    "https://stats.wp.com/e-202643.js",
+    "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css?ver=1.3.4",
+    "https://unpkg.com/leaflet@1.3.4/dist/leaflet.js?ver=1.3.4"
+  ],
+  "errores": [
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31-488x326.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31-48"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1-300x200.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1-300x200.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1-150x100.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1-150x100.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31-488x326.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31-48"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31.pn"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1-300x200.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1-300x200.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1-150x100.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Casa-Campo-Real-1-1-150x100.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20190728_141347-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20190728_141347-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/FB_IMG_1566074327407-1-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/FB_IMG_1566074327407-1-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20190728_141347-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20190728_141347-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20190728_141347.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20190728_141347.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/FB_IMG_1566074327407-1-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/FB_IMG_1566074327407-1-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/FB_IMG_1566074327407-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/FB_IMG_1566074327407-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31-488x326.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31-48"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20191004_102204-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20191004_102204-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31-488x326.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31-48"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31.pn"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20191004_102204-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20191004_102204-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20191004_102204.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20191004_102204.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20191004_102204-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20191004_102204-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-300x200.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-300x200.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-768x512.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-768x512.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-1024x683.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-1024x683.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-150x100.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-150x100.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20191004_102204-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20191004_102204-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20191004_102204.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2017/06/IMG_20191004_102204.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-300x200.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-300x200.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-768x512.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-768x512.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-1024x683.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-1024x683.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-150x100.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-150x100.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20190925_143754-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20190925_143754-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-300x200.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-300x200.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-768x512.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-768x512.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-1024x683.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-1024x683.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-150x100.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-150x100.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20190925_143754-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20190925_143754-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20190925_143754.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20190925_143754.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-488x326.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-488x326.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-300x200.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-300x200.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-768x512.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-768x512.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-1024x683.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-1024x683.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-150x100.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-150x100.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200722_121331-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200722_121331-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200720_104204-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200720_104204-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200721_101416-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200721_101416-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/Apartamento-Derico-536x269.jpeg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/Apartamento-Derico-536x269.jpeg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/Screenshot_20200715_191324-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/Screenshot_20200715_191324-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG-20200629-WA0039-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG-20200629-WA0039-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/themes/realhomes/assets/classic/images/banner.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/themes/realhomes/assets/classic/images/banner.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200722_121331-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200722_121331-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200722_121331.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200722_121331.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200720_104204-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200720_104204-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200720_104204.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200720_104204.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200721_101416-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200721_101416-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200721_101416.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200721_101416.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/Apartamento-Derico-536x269.jpeg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/Apartamento-Derico-536x269.jpeg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/Apartamento-Derico.jpeg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/Apartamento-Derico.jpeg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/Screenshot_20200715_191324-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/Screenshot_20200715_191324-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/Screenshot_20200715_191324.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/Screenshot_20200715_191324.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG-20200629-WA0039-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG-20200629-WA0039-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG-20200629-WA0039.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG-20200629-WA0039.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200619_143611-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200619_143611-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200619_135127-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200619_135127-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200526_174144-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200526_174144-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-01-at-9.12.36-AM-2-536x269.jpeg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-01-at-9.12.36-AM-2-536x26"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200518_113242-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200518_113242-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/Edificio-Comercial-y-Residencial-Heredia-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/Edificio-Comercial-y-Residencial-Heredia-536x269"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/themes/realhomes/assets/classic/images/banner.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/themes/realhomes/assets/classic/images/banner.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200619_143611-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200619_143611-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200619_143611.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200619_143611.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200619_135127-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200619_135127-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200619_135127.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200619_135127.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200526_174144-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200526_174144-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200526_174144.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/07/IMG_20200526_174144.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-01-at-9.12.36-AM-2-536x269.jpeg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-01-at-9.12.36-AM-2-536x26"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-01-at-9.12.36-AM-2.jpeg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-01-at-9.12.36-AM-2.jpeg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200518_113242-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200518_113242-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200518_113242.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200518_113242.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/Edificio-Comercial-y-Residencial-Heredia-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/Edificio-Comercial-y-Residencial-Heredia-536x269"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/Edificio-Comercial-y-Residencial-Heredia.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/Edificio-Comercial-y-Residencial-Heredia.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/PHOTO-2018-10-01-14-02-11-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/PHOTO-2018-10-01-14-02-11-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/lavacar-1-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/lavacar-1-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG-20200521-WA0022-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG-20200521-WA0022-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG-20200521-WA0021-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG-20200521-WA0021-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200520_164620-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200520_164620-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200519_102346-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200519_102346-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/themes/realhomes/assets/classic/images/banner.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/themes/realhomes/assets/classic/images/banner.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/PHOTO-2018-10-01-14-02-11-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/PHOTO-2018-10-01-14-02-11-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/PHOTO-2018-10-01-14-02-11.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/PHOTO-2018-10-01-14-02-11.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/lavacar-1-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/lavacar-1-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/lavacar-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/lavacar-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG-20200521-WA0022-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG-20200521-WA0022-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG-20200521-WA0022.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG-20200521-WA0022.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG-20200521-WA0021-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG-20200521-WA0021-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG-20200521-WA0021.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG-20200521-WA0021.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200520_164620-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200520_164620-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200520_164620.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200520_164620.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200519_102346-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200519_102346-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200519_102346.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2020/05/IMG_20200519_102346.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20191108_162619-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20191108_162619-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_1480-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_1480-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_1478-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_1478-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_0267-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_0267-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/themes/realhomes/assets/classic/images/banner.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/themes/realhomes/assets/classic/images/banner.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20191108_162619-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20191108_162619-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20191108_162619.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20191108_162619.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_1480-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_1480-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_1480.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_1480.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_1478-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_1478-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_1478.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_1478.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0984.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/CRW_0941.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_0267-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_0267-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_0267.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_0267.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20190911_132901-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20190911_132901-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-10-at-7.58.26-PM-536x269.jpeg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-10-at-7.58.26-PM-536x269."
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31-536x269.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31-53"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20180613_082844_resized_20190507_092846201-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20180613_082844_resized_20190507_092846201-5"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20181018_094631_resized_20190506_052047913-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20181018_094631_resized_20190506_052047913-5"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20181018_111405-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20181018_111405-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/themes/realhomes/assets/classic/images/banner.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/themes/realhomes/assets/classic/images/banner.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-32x32.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-192x192.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-180x180.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/cropped-FAVICON-270x270.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/10/LOGO-HEADER2.png"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20190911_132901-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20190911_132901-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20190911_132901.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20190911_132901.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-10-at-7.58.26-PM-536x269.jpeg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-10-at-7.58.26-PM-536x269."
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-10-at-7.58.26-PM.jpeg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/WhatsApp-Image-2019-10-10-at-7.58.26-PM.jpeg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31-536x269.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31-53"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31.png",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/Captura-de-pantalla-2017-04-03-a-las-18.29.31.pn"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20180613_082844_resized_20190507_092846201-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20180613_082844_resized_20190507_092846201-5"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20180613_082844_resized_20190507_092846201.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20180613_082844_resized_20190507_092846201.j"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20181018_094631_resized_20190506_052047913-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20181018_094631_resized_20190506_052047913-5"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20181018_094631_resized_20190506_052047913.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20181018_094631_resized_20190506_052047913.j"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20181018_111405-536x269.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20181018_111405-536x269.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20181018_111405.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2019/11/IMG_20181018_111405.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-casa-facil-150x43.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1.jpg"
+    },
+    {
+      "url": "https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg",
+      "error": "403 Client Error: Forbidden for url: https://gavarrettegrouprealestate.com/wp-content/uploads/2016/08/logo-campo-real-1-150x43.jpg"
+    }
+  ],
+  "bytes": 882020
+}
