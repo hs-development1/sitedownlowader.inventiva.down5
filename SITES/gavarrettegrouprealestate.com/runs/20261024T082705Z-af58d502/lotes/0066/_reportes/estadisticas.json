@@ -1,0 +1,14 @@
+{
+  "version": "2.1.0",
+  "site": "https://gavarrettegrouprealestate.com/",
+  "captured_at": "2026-10-24T13:50:38.319162+00:00",
+  "pages": 10,
+  "entities": 10,
+  "assets": 0,
+  "page_types": {
+    "general": 10
+  },
+  "full_text_chunks": [
+    "textos/parte-0001.jsonl.gz"
+  ]
+}
