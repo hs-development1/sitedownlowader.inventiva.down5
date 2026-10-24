@@ -1,0 +1,29 @@
+<!doctype html><html lang="es"><head><base href="../../"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Inventiva SiteMirror 2.0 · Archivo universal</title>
+<style>
+:root{font:16px system-ui,Segoe UI,sans-serif;color:#e9f4fd;background:#0b111c}
+*{box-sizing:border-box}body{margin:0}main{max-width:1200px;margin:0 auto;padding:38px 23px}
+h1{font-size:clamp(28px,4vw,48px);letter-spacing:-.05em;margin:8px 0}
+p{color:#a6b5c9;line-height:1.6}input,select{background:#162237;border:1px solid #35485d;border-radius:10px;padding:15px;color:#fff;font:inherit}
+.controls{display:flex;gap:10px;flex-wrap:wrap;margin:26px 0}.controls input{flex:1;min-width:260px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(275px,1fr));gap:13px}
+article{background:#172235;border:1px solid #334358;border-radius:14px;padding:20px}
+h2{font-size:18px}.kind{font-size:11px;color:#81e8cb;text-transform:uppercase;letter-spacing:.12em}
+a{color:#7ae8ce;font-weight:700}small{color:#8da9bc}.description{font-size:13px}
+</style></head><body><main><small>SITEMIRROR · INVENTIVA · VERSIÓN 2.0</small>
+<h1>Archivo universal</h1><p>Buscador offline con textos originales y fichas extraídas del HTML público.</p>
+<div class="controls"><input id="q" placeholder="Buscar por título, tema, ubicación, datos o texto…">
+<select id="kind"><option value="">Todos los contenidos</option></select></div>
+<p id="count"></p><div class="grid" id="results"></div></main><script>
+const items=[{"title": "Grid Layout Full Width – Página 7 – Gavarrette Group Real Estate", "url": "https://gavarrettegrouprealestate.com/index.php/grid-layout-full-width/page/7/", "file": "paginas/f3/f38e656ff-index.html", "kind": "general", "description": "", "text": ""}, {"title": "Grid Layout Full Width – Página 15 – Gavarrette Group Real Estate", "url": "https://gavarrettegrouprealestate.com/index.php/grid-layout-full-width/page/15/", "file": "paginas/0e/0e2912d50-index.html", "kind": "general", "description": "", "text": ""}, {"title": "Grid Layout Full Width – Página 13 – Gavarrette Group Real Estate", "url": "https://gavarrettegrouprealestate.com/index.php/grid-layout-full-width/page/13/", "file": "paginas/c1/c1076ab7a-index.html", "kind": "general", "description": "", "text": ""}, {"title": "Grid Layout Full Width – Página 14 – Gavarrette Group Real Estate", "url": "https://gavarrettegrouprealestate.com/index.php/grid-layout-full-width/page/14/", "file": "paginas/15/1560c201a-index.html", "kind": "general", "description": "", "text": ""}, {"title": "Half Map Layout – Página 5 – Gavarrette Group Real Estate", "url": "https://gavarrettegrouprealestate.com/index.php/half-map-layout/page/5/", "file": "paginas/1a/1afd208c5-index.html", "kind": "general", "description": "", "text": ""}, {"title": "Half Map Layout – Página 6 – Gavarrette Group Real Estate", "url": "https://gavarrettegrouprealestate.com/index.php/half-map-layout/page/6/", "file": "paginas/69/6929f6b54-index.html", "kind": "general", "description": "", "text": ""}, {"title": "Half Map Layout – Página 7 – Gavarrette Group Real Estate", "url": "https://gavarrettegrouprealestate.com/index.php/half-map-layout/page/7/", "file": "paginas/4f/4f6794225-index.html", "kind": "general", "description": "", "text": ""}, {"title": "Half Map Layout – Página 15 – Gavarrette Group Real Estate", "url": "https://gavarrettegrouprealestate.com/index.php/half-map-layout/page/15/", "file": "paginas/5a/5ad38e8f2-index.html", "kind": "general", "description": "", "text": ""}, {"title": "Half Map Layout – Página 13 – Gavarrette Group Real Estate", "url": "https://gavarrettegrouprealestate.com/index.php/half-map-layout/page/13/", "file": "paginas/ad/ada7116fc-index.html", "kind": "general", "description": "", "text": ""}, {"title": "Half Map Layout – Página 14 – Gavarrette Group Real Estate", "url": "https://gavarrettegrouprealestate.com/index.php/half-map-layout/page/14/", "file": "paginas/35/35a7d6450-index.html", "kind": "general", "description": "", "text": ""}];const q=document.querySelector("#q"),
+type=document.querySelector("#kind"),results=document.querySelector("#results"),count=document.querySelector("#count");
+const types=[...new Set(items.map(p=>p.kind))].sort();for(const t of types){const o=document.createElement("option");o.value=t;o.textContent=t;type.appendChild(o)}
+function add(tag,text,cls){const el=document.createElement(tag);el.textContent=text||"";if(cls)el.className=cls;return el}
+function render(){const search=q.value.toLocaleLowerCase(),kind=type.value;
+const matches=items.filter(p=>(!kind||p.kind===kind)&&[p.title,p.description,p.text].join(" ").toLocaleLowerCase().includes(search));
+count.textContent=matches.length+" páginas encontradas";results.replaceChildren();
+for(const p of matches.slice(0,700)){const a=add("article");a.append(add("div",p.kind,"kind"),add("h2",p.title||p.url),add("p",(p.description||p.text).slice(0,440),"description"));
+const link=add("a","Abrir copia offline ↗");link.href=p.file.startsWith("paginas/")?p.file:p.file;link.rel="noopener";a.appendChild(link);results.appendChild(a)}
+}q.oninput=render;type.onchange=render;render();
+</script></body></html>
