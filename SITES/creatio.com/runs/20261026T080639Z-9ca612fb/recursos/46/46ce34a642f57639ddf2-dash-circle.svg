@@ -1,0 +1,4 @@
+<svg baseProfile="basic" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" xml:space="preserve">
+  <circle fill="#FFF" cx="10" cy="10" r="9.5"/>
+  <circle fill="none" stroke="#707070" stroke-miterlimit="10" stroke-dasharray="1.9892 1.9892" cx="10" cy="10" r="9.5"/>
+</svg>

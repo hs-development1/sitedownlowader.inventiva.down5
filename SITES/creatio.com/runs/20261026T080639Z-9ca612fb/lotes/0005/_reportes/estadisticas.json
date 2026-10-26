@@ -1,0 +1,15 @@
+{
+  "version": "2.1.0",
+  "site": "https://creatio.com/",
+  "captured_at": "2026-10-26T08:21:43.562003+00:00",
+  "pages": 10,
+  "entities": 3,
+  "assets": 80,
+  "page_types": {
+    "producto": 3,
+    "general": 7
+  },
+  "full_text_chunks": [
+    "textos/parte-0001.jsonl.gz"
+  ]
+}
