@@ -1,0 +1,278 @@
+[
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/support/tech-support-main@1x.png.webp",
+    "path": "recursos/60/60bc714362fd38fdb574-tech-support-main_1x.png.webp",
+    "bytes": 30018,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/support/tech-support-main@2x.png.webp",
+    "path": "recursos/56/56d7c60e64469303566d-tech-support-main_2x.png.webp",
+    "bytes": 94044,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/support/tech-support-main@1x.png.webp",
+    "path": "recursos/72/7254b86c365785871caa-tech-support-main_1x.png.webp",
+    "bytes": 223158,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/support/tech-support-main@2x.png.webp",
+    "path": "recursos/b4/b41a4d5d1b1c4ddf0af3-tech-support-main_2x.png.webp",
+    "bytes": 902902,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/crm/01-mrkt-big@1x.png.webp",
+    "path": "recursos/d1/d1bfbc697a6c4d195d2e-01-mrkt-big_1x.png.webp",
+    "bytes": 10470,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/crm/01-mrkt-big@2x.png.webp",
+    "path": "recursos/bd/bd17cb68169ffaa0fbf4-01-mrkt-big_2x.png.webp",
+    "bytes": 29822,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/crm/01-mrkt-big@1x.png.webp",
+    "path": "recursos/09/090310dc368a1bb5e2c2-01-mrkt-big_1x.png.webp",
+    "bytes": 71684,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/crm/01-mrkt-big@2x.png.webp",
+    "path": "recursos/2f/2f891ebee7a3b3596576-01-mrkt-big_2x.png.webp",
+    "bytes": 174438,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/crm/01-sls-big1x.png.webp",
+    "path": "recursos/ab/ab803f7385d4b4707a9c-01-sls-big1x.png.webp",
+    "bytes": 13470,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/crm/01-sls-big2x.png.webp",
+    "path": "recursos/d8/d85ea9d725a0f578f8d6-01-sls-big2x.png.webp",
+    "bytes": 41054,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/crm/01-sls-big1x.png.webp",
+    "path": "recursos/89/89393181d531d723bf69-01-sls-big1x.png.webp",
+    "bytes": 163130,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/sales/v2/03-sales-agent-01@2x.png.webp",
+    "path": "recursos/f6/f657d79abc761c427e25-03-sales-agent-01_2x.png.webp",
+    "bytes": 2871072,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/products/sales/v2/03-sales-agent-02@1x.png.webp",
+    "path": "recursos/93/939e789832246951f379-03-sales-agent-02_1x.png.webp",
+    "bytes": 124986,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/products/sales/v2/03-sales-agent-02@2x.png.webp",
+    "path": "recursos/83/837e3366e0f657469b26-03-sales-agent-02_2x.png.webp",
+    "bytes": 493184,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/sales/v2/03-sales-agent-02@1x.png.webp",
+    "path": "recursos/03/0306f48f00c7035df72b-03-sales-agent-02_1x.png.webp",
+    "bytes": 574886,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/sales/v2/03-sales-agent-02@2x.png.webp",
+    "path": "recursos/df/df4618ce87dea9e2a990-03-sales-agent-02_2x.png.webp",
+    "bytes": 2399346,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/products/sales/v2/03-sales-agent-03@1x.png.webp",
+    "path": "recursos/72/729faa245537e8fe35c2-03-sales-agent-03_1x.png.webp",
+    "bytes": 128286,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/products/sales/v2/03-sales-agent-03@2x.png.webp",
+    "path": "recursos/a5/a52f2e92fd968162bfc7-03-sales-agent-03_2x.png.webp",
+    "bytes": 488738,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/sales/v2/03-sales-agent-03@1x.png.webp",
+    "path": "recursos/ca/ca01375b0515b1a21314-03-sales-agent-03_1x.png.webp",
+    "bytes": 565608,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/products/marketing/v2/03-marketing-agent-03@2x.png.webp",
+    "path": "recursos/57/573bd620f18edb7f8807-03-marketing-agent-03_2x.png.webp",
+    "bytes": 715040,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/marketing/v2/03-marketing-agent-03@1x.png.webp",
+    "path": "recursos/c9/c9d422037410d623ec22-03-marketing-agent-03_1x.png.webp",
+    "bytes": 818926,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/marketing/v2/03-marketing-agent-03@2x.png.webp",
+    "path": "recursos/75/7527350368b17f0a1311-03-marketing-agent-03_2x.png.webp",
+    "bytes": 3517294,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/products/marketing/v2/03-marketing-agent-04@1x.png.webp",
+    "path": "recursos/9e/9ef832ff65d7d0dec9cb-03-marketing-agent-04_1x.png.webp",
+    "bytes": 173934,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/products/marketing/v2/03-marketing-agent-04@2x.png.webp",
+    "path": "recursos/c3/c3e8939e61c73990781a-03-marketing-agent-04_2x.png.webp",
+    "bytes": 568786,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/marketing/v2/03-marketing-agent-04@1x.png.webp",
+    "path": "recursos/bf/bfb8342f94ef29ad854e-03-marketing-agent-04_1x.png.webp",
+    "bytes": 627620,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/marketing/v2/03-marketing-agent-04@2x.png.webp",
+    "path": "recursos/7a/7a7c0e84e9e772cddf2b-03-marketing-agent-04_2x.png.webp",
+    "bytes": 1736724,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/products/marketing/v2/03-marketing-agent-05@1x.png.webp",
+    "path": "recursos/93/9354bce0c17de4bf49b6-03-marketing-agent-05_1x.png.webp",
+    "bytes": 181058,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/products/marketing/v2/03-marketing-agent-05@2x.png.webp",
+    "path": "recursos/00/00f44e60c8e63b142870-03-marketing-agent-05_2x.png.webp",
+    "bytes": 645264,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/service/v2/03-service-agent-03@1x.png.webp",
+    "path": "recursos/49/49085bd6d95ae1c16fdf-03-service-agent-03_1x.png.webp",
+    "bytes": 529196,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/service/v2/03-service-agent-03@2x.png.webp",
+    "path": "recursos/37/372e8ae7fcc0b9bfc0f2-03-service-agent-03_2x.png.webp",
+    "bytes": 1575444,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/products/service/v2/03-service-agent-04@1x.png.webp",
+    "path": "recursos/df/dfe47f852d5fa49eabe5-03-service-agent-04_1x.png.webp",
+    "bytes": 139938,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/products/service/v2/03-service-agent-04@2x.png.webp",
+    "path": "recursos/ad/ad55ca7baa2b878b9d15-03-service-agent-04_2x.png.webp",
+    "bytes": 478564,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/service/v2/03-service-agent-04@1x.png.webp",
+    "path": "recursos/5c/5cf00486d33ae4deb59e-03-service-agent-04_1x.png.webp",
+    "bytes": 527690,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/service/v2/03-service-agent-04@2x.png.webp",
+    "path": "recursos/a8/a8e7cd00ee174592d502-03-service-agent-04_2x.png.webp",
+    "bytes": 1522728,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/products/service/v2/03-service-agent-05@1x.png.webp",
+    "path": "recursos/64/643956565cca8b773b3f-03-service-agent-05_1x.png.webp",
+    "bytes": 140556,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/products/service/v2/03-service-agent-05@2x.png.webp",
+    "path": "recursos/5b/5b08ce616a83f7091dcd-03-service-agent-05_2x.png.webp",
+    "bytes": 489834,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/service/v2/03-service-agent-05@1x.png.webp",
+    "path": "recursos/c2/c2e5336079b3a2d6d238-03-service-agent-05_1x.png.webp",
+    "bytes": 538934,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/products/service/v2/03-service-agent-05@2x.png.webp",
+    "path": "recursos/79/795976bf6b3654786819-03-service-agent-05_2x.png.webp",
+    "bytes": 1499636,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/main/Retail.jpg.webp",
+    "path": "recursos/8e/8e63fec7029573498ff0-Retail.jpg.webp",
+    "bytes": 10804,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/main/cpg-industry.jpg.webp",
+    "path": "recursos/de/dec1ea00dede18890b84-cpg-industry.jpg.webp",
+    "bytes": 9996,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/main/Pharma.jpg.webp",
+    "path": "recursos/14/14a34cbb3707d8ba93e2-Pharma.jpg.webp",
+    "bytes": 6440,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/main/Telecom.jpg.webp",
+    "path": "recursos/e4/e4efc83f8f1b00816f7c-Telecom.jpg.webp",
+    "bytes": 13354,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/main/Public-sector.jpg.webp",
+    "path": "recursos/ef/ef8f5907afc09b21c8c3-Public-sector.jpg.webp",
+    "bytes": 11910,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/main/Media-advertising.jpg.webp",
+    "path": "recursos/3e/3e9f94487214d5960c9a-Media-advertising.jpg.webp",
+    "bytes": 12882,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/main/energy-utilities.jpg.webp",
+    "path": "recursos/e0/e0b7b43d9302b13867e1-energy-utilities.jpg.webp",
+    "bytes": 17390,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/main/2-industry-screen@1x.png.webp",
+    "path": "recursos/1d/1dc260286cf37d06793e-2-industry-screen_1x.png.webp",
+    "bytes": 24432,
+    "property_url": null
+  }
+]

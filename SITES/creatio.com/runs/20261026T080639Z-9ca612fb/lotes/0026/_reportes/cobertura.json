@@ -1,0 +1,16 @@
+{
+  "pages_discovered": 10,
+  "pages_saved": 10,
+  "page_errors": 0,
+  "assets_saved": 80,
+  "assets_failed": 0,
+  "external_resources_omitted": 699,
+  "limit_reached": true,
+  "page_cap_reached": true,
+  "page_limit": 10,
+  "images_budget_bytes": 110100480,
+  "total_bytes": 29879798,
+  "saved_html_failed": 0,
+  "browser_rendered": false,
+  "possible_javascript_site": false
+}
