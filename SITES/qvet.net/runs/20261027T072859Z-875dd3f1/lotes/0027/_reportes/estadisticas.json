@@ -1,0 +1,15 @@
+{
+  "version": "2.1.0",
+  "site": "https://qvet.net/",
+  "captured_at": "2026-10-27T07:52:18.279087+00:00",
+  "pages": 10,
+  "entities": 74,
+  "assets": 7,
+  "page_types": {
+    "negocio": 8,
+    "articulo": 2
+  },
+  "full_text_chunks": [
+    "textos/parte-0001.jsonl.gz"
+  ]
+}

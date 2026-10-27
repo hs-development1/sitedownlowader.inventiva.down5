@@ -1,0 +1,66 @@
+{
+  "sitio": "https://qvet.net/",
+  "fecha": "2026-10-27T07:52:11.787348+00:00",
+  "paginas": [
+    "https://qvet.net/tag/universidades/",
+    "https://qvet.net/tag/verano/",
+    "https://qvet.net/tag/verifactu/",
+    "https://qvet.net/tag/veterinarios/",
+    "https://qvet.net/tag/whatsapp/",
+    "https://qvet.net/top-10-razones-por-las-que-los-clientes-escogen-tu-clinica-veterinaria/",
+    "https://qvet.net/universidades-y-grupos/",
+    "https://qvet.net/universidades/",
+    "https://qvet.net/vacaciones-tranquilas-controla-tu-clinica-veterinaria-desde-cualquier-lugar/",
+    "https://qvet.net/verifactuqvet/"
+  ],
+  "paginas_guardadas": 10,
+  "recursos_descargados": 7,
+  "fotografias_descargadas": 7,
+  "bytes_fotografias": 12928448,
+  "recursos_pendientes": 0,
+  "presupuesto_recursos_bytes": 110100480,
+  "recursos_bytes": 12928448,
+  "maximo_paginas": 10,
+  "paginas_pendientes": 0,
+  "fichas_inmobiliarias": 0,
+  "limite_alcanzado": false,
+  "modo_navegador": false,
+  "advertencia_navegador": "",
+  "recursos": [
+    {
+      "url": "https://qvet.net/wp-content/uploads/2023/05/pexels-julio-lopez-16125194-1536x1024.jpg",
+      "archivo": "recursos/18/186beefafffdf5fc277d-pexels-julio-lopez-16125194-1536x1024.jpg"
+    },
+    {
+      "url": "https://qvet.net/wp-content/uploads/2023/05/pexels-julio-lopez-16125194-2048x1365.jpg",
+      "archivo": "recursos/63/63ed7557fbdfea5795b8-pexels-julio-lopez-16125194-2048x1365.jpg"
+    },
+    {
+      "url": "https://qvet.net/wp-content/uploads/2023/05/Veterinario.jpg",
+      "archivo": "recursos/d8/d8e2c0e6cb51afd8ea0d-Veterinario.jpg"
+    },
+    {
+      "url": "https://qvet.net/wp-content/uploads/2023/05/pexels-julio-lopez-16125194.jpg",
+      "archivo": "recursos/2d/2d5a489506de045ce2fc-pexels-julio-lopez-16125194.jpg"
+    },
+    {
+      "url": "https://qvet.net/wp-content/uploads/2023/02/grupos-768x339.png",
+      "archivo": "recursos/7a/7a4ef701bab524f7d4b6-grupos-768x339.png"
+    },
+    {
+      "url": "https://qvet.net/wp-content/uploads/2023/02/grupos-1536x679.png",
+      "archivo": "recursos/52/527d3bae2766184c4098-grupos-1536x679.png"
+    },
+    {
+      "url": "https://qvet.net/wp-content/uploads/2023/02/grupos-2048x905.png",
+      "archivo": "recursos/8c/8c24e11d268532164258-grupos-2048x905.png"
+    }
+  ],
+  "recursos_externos_omitidos": [
+    "https://www.google.com/recaptcha/api.js?onload=onloadSibCallback&render=explicit",
+    "https://www.google.com/recaptcha/api.js?render=explicit&ver=4.0.4",
+    "https://www.googletagmanager.com/gtag/js?id=GT-K8D2BQN&"
+  ],
+  "errores": [],
+  "bytes": 13735614
+}
