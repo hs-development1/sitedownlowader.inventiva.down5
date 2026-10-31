@@ -1,0 +1,36 @@
+{
+  "sitio": "https://www.alpackaai.xyz/",
+  "fecha": "2026-10-31T08:11:50.581853+00:00",
+  "paginas": [
+    "https://www.alpackaai.xyz/login?redirect=%2Fprompts",
+    "https://www.alpackaai.xyz/generador?from=busqueda-vacia",
+    "https://www.alpackaai.xyz/login?redirect=/guardados",
+    "https://www.alpackaai.xyz/login?redirect=%2Fskills",
+    "https://alpackaai.xyz/login?redirect=%2Fgenerador",
+    "https://alpackaai.xyz/login?redirect=/generador",
+    "https://alpackaai.xyz/login?redirect=/guardados",
+    "https://alpackaai.xyz/login?redirect=%2Fskills",
+    "https://alpackaai.xyz/login?redirect=%2Fgenerador%3Ffrom%3Dbusqueda-vacia",
+    "https://www.alpackaai.xyz/login?redirect=%2Fgenerador%3Ffrom%3Dbusqueda-vacia"
+  ],
+  "paginas_guardadas": 10,
+  "recursos_descargados": 0,
+  "fotografias_descargadas": 0,
+  "bytes_fotografias": 0,
+  "recursos_pendientes": 16,
+  "presupuesto_recursos_bytes": 110100480,
+  "recursos_bytes": 0,
+  "maximo_paginas": 10,
+  "paginas_pendientes": 0,
+  "fichas_inmobiliarias": 0,
+  "limite_alcanzado": false,
+  "modo_navegador": true,
+  "advertencia_navegador": "",
+  "recursos": [],
+  "recursos_externos_omitidos": [
+    "https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&family=JetBrains+Mono:wght@100..800&display=swap",
+    "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092"
+  ],
+  "errores": [],
+  "bytes": 1344738
+}

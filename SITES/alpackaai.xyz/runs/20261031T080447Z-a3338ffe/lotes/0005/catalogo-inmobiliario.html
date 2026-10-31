@@ -1,0 +1,36 @@
+<!doctype html><html lang="es"><head><base href="../../"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Catálogo inmobiliario · SiteMirror Inventiva</title>
+<style>
+:root{font-family:system-ui,Segoe UI,sans-serif;color:#e7edf8;background:#0b1220}
+*{box-sizing:border-box}body{margin:0}main{max-width:1400px;margin:auto;padding:42px 24px}
+h1{font-size:clamp(30px,4vw,52px);letter-spacing:-.055em;margin:8px 0}
+.small{color:#93a8c3;font-size:13px}.top{display:flex;justify-content:space-between;align-items:center;gap:16px}
+a{color:#6de6cd}.count{color:#6de6cd}input{width:100%;padding:16px 19px;font-size:16px;
+border:1px solid #354860;border-radius:12px;color:#fff;background:#111d31;margin:28px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:18px}
+article{border:1px solid #2d3a52;background:#152138;border-radius:16px;padding:21px;overflow-wrap:anywhere}
+h2{font-size:19px;line-height:1.35}.price{font-size:26px;font-weight:800;color:#79dbc9}
+p{line-height:1.5;color:#b6c7dd}.tag{display:inline-block;font-size:12px;background:#25344a;border-radius:99px;padding:5px 9px;margin:2px}
+summary{cursor:pointer;color:#90decf}details p{white-space:pre-wrap}
+</style></head><body><main><div class="top"><div><div class="small">INVENTIVA · ARCHIVO OFFLINE</div><h1>Catálogo inmobiliario</h1>
+<p>Todos los textos conservados del sitio original.</p></div><div class="count" id="count"></div></div>
+<input id="search" type="search" aria-label="Buscar inmueble" placeholder="Buscar precio, ubicación, nombre o descripción…">
+<div id="results" class="grid"></div><script>
+const data=[];
+const results=document.getElementById("results"),count=document.getElementById("count");
+function element(name,cls,value){const e=document.createElement(name);if(cls)e.className=cls;if(value!==undefined)e.textContent=value;return e}
+function render(){const q=document.getElementById("search").value.toLocaleLowerCase();
+const rows=data.filter(x=>[x.title,x.price,x.location,x.summary,x.description,x.property_id,x.property_type].join(" ").toLocaleLowerCase().includes(q));
+count.textContent=rows.length+" propiedades";results.replaceChildren();
+for(const x of rows){let a=element("article");a.append(element("div","small",x.property_id));a.append(element("h2","",x.title));
+if(x.price)a.append(element("div","price",x.price));if(x.location)a.append(element("p","",x.location));
+if(x.property_type)a.append(element("div","tag",x.property_type));
+if(x.images&&x.images.length){const cover=document.createElement("img");cover.src=x.images[0];cover.alt="Fotografía archivada: "+x.title;cover.loading="lazy";cover.style.cssText="width:100%;height:180px;object-fit:cover;border-radius:10px;margin:14px 0 3px";a.append(cover);}
+a.append(element("p","",x.summary||x.description.slice(0,300)));
+const more=element("details"),summary=element("summary","","Leer descripción y detalles originales");
+more.append(summary,element("p","",x.description));
+a.append(more);const link=element("a","","Abrir ficha offline ↗");link.href=x.local_html||x.url;link.target="_blank";link.rel="noopener noreferrer";a.append(link);results.append(a);}
+}
+document.getElementById("search").addEventListener("input",render);render();
+</script></main></body></html>
