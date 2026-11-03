@@ -1,0 +1,79 @@
+{
+  "sitio": "https://famehero.com/new-campaign",
+  "fecha": "2026-11-03T22:58:07.931886+00:00",
+  "paginas": [
+    "https://www.famehero.com/alternatives/pr-agencies/devops-companies",
+    "https://www.famehero.com/alternatives/pr-agencies/dtc-brands",
+    "https://www.famehero.com/alternatives/pr-agencies/ecommerce-brands",
+    "https://www.famehero.com/alternatives/pr-agencies/energy-companies",
+    "https://www.famehero.com/alternatives/pr-agencies/fashion-brands",
+    "https://www.famehero.com/alternatives/pr-agencies/financial-advisors",
+    "https://www.famehero.com/alternatives/pr-agencies/fintech-companies",
+    "https://www.famehero.com/alternatives/pr-agencies/fintech-startups",
+    "https://www.famehero.com/alternatives/pr-agencies/food-brands",
+    "https://www.famehero.com/alternatives/pr-agencies/healthtech-companies"
+  ],
+  "paginas_guardadas": 10,
+  "recursos_descargados": 9,
+  "fotografias_descargadas": 9,
+  "bytes_fotografias": 106765,
+  "recursos_pendientes": 41,
+  "presupuesto_recursos_bytes": 110100480,
+  "recursos_bytes": 106765,
+  "maximo_paginas": 10,
+  "paginas_pendientes": 0,
+  "fichas_inmobiliarias": 0,
+  "limite_alcanzado": false,
+  "modo_navegador": true,
+  "advertencia_navegador": "",
+  "recursos": [
+    {
+      "url": "https://best.famehero.com/api/articles/pr-agencies-alternatives-for-devops-companies-2026/hero.svg",
+      "archivo": "recursos/6b/6bdd21ae6fe5de7bda56-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/pr-agencies-alternatives-for-fashion-brands-2026/hero.svg",
+      "archivo": "recursos/b3/b383b4ac3d7918dc6c7d-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/pr-agencies-alternatives-for-ecommerce-brands-2026/hero.svg",
+      "archivo": "recursos/17/171320da422215b463a4-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/pr-agencies-alternatives-for-fintech-companies-2026/hero.svg",
+      "archivo": "recursos/59/598d9dc07a175d6904a2-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/pr-agencies-alternatives-for-staffing-companies-2026/hero.svg",
+      "archivo": "recursos/83/831690fd659587896e84-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/pr-agencies-alternatives-for-venture-capital-firms-2026/hero.svg",
+      "archivo": "recursos/71/71e411ba1465eb21c406-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/pr-agencies-alternatives-for-fintech-startups-2026/hero.svg",
+      "archivo": "recursos/83/8385971c562bf6c0366c-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/pr-agencies-alternatives-for-hvac-companies-2026/hero.svg",
+      "archivo": "recursos/91/91a65cac20cdbcdae2ee-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/pr-agencies-alternatives-for-influencers-2026/hero.svg",
+      "archivo": "recursos/c1/c103440be0486f138548-hero.svg"
+    }
+  ],
+  "recursos_externos_omitidos": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://js.stripe.com/clover/stripe.js",
+    "https://js.stripe.com/v3/controller-ac39e67c5264543d9c04303242460b1c.html",
+    "https://js.stripe.com/v3/controller-with-preconnect-4360bce27eee0698f73df29cc08ff312.html",
+    "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://us-assets.i.posthog.com/array/phc_Uy2E1nAviZdUSNi68Ay0gxh0Gp66NGJXnZsjDWs2vM1/config.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-1770K2JYLH"
+  ],
+  "errores": [],
+  "bytes": 804595
+}
