@@ -1,0 +1,75 @@
+{
+  "sitio": "https://famehero.com/new-campaign",
+  "fecha": "2026-11-03T23:44:56.421392+00:00",
+  "paginas": [
+    "https://www.famehero.com/how-to/improve-your-seo",
+    "https://www.famehero.com/how-to/increase-app-downloads",
+    "https://www.famehero.com/how-to/increase-brand-awareness",
+    "https://www.famehero.com/how-to/increase-brand-credibility",
+    "https://www.famehero.com/how-to/increase-domain-rating",
+    "https://www.famehero.com/how-to/increase-online-visibility",
+    "https://www.famehero.com/how-to/increase-roi",
+    "https://www.famehero.com/how-to/increase-sales",
+    "https://www.famehero.com/how-to/land-press-mentions",
+    "https://www.famehero.com/how-to/launch-a-digital-marketing-campaign"
+  ],
+  "paginas_guardadas": 10,
+  "recursos_descargados": 8,
+  "fotografias_descargadas": 8,
+  "bytes_fotografias": 95008,
+  "recursos_pendientes": 43,
+  "presupuesto_recursos_bytes": 110100480,
+  "recursos_bytes": 95008,
+  "maximo_paginas": 10,
+  "paginas_pendientes": 0,
+  "fichas_inmobiliarias": 0,
+  "limite_alcanzado": false,
+  "modo_navegador": true,
+  "advertencia_navegador": "",
+  "recursos": [
+    {
+      "url": "https://best.famehero.com/api/articles/best-pr-agencies-to-increase-app-downloads-2026/hero.svg",
+      "archivo": "recursos/69/6950b0a7ff4186e24e9a-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/best-pr-agencies-to-increase-brand-awareness-2026/hero.svg",
+      "archivo": "recursos/8f/8fa4f167361d537e5a0f-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/best-way-to-increase-domain-rating-2026/hero.svg",
+      "archivo": "recursos/c2/c2ac97ba3ed9b1edd601-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/best-pr-agencies-to-increase-domain-rating-2026/hero.svg",
+      "archivo": "recursos/b6/b6bec829db387e86e59c-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/best-pr-agencies-to-increase-online-visibility-2026/hero.svg",
+      "archivo": "recursos/3c/3cc8e3f4940eb818b998-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/best-way-to-increase-sales-2026/hero.svg",
+      "archivo": "recursos/d3/d3810a352a63a183683b-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/best-pr-agencies-to-increase-sales-2026/hero.svg",
+      "archivo": "recursos/28/2890b61567132f9805e1-hero.svg"
+    },
+    {
+      "url": "https://best.famehero.com/api/articles/best-pr-agencies-to-land-press-mentions-2026/hero.svg",
+      "archivo": "recursos/98/98a0a4f75273d14d3415-hero.svg"
+    }
+  ],
+  "recursos_externos_omitidos": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://js.stripe.com/clover/stripe.js",
+    "https://js.stripe.com/v3/controller-ac39e67c5264543d9c04303242460b1c.html",
+    "https://js.stripe.com/v3/controller-with-preconnect-4360bce27eee0698f73df29cc08ff312.html",
+    "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://us-assets.i.posthog.com/array/phc_Uy2E1nAviZdUSNi68Ay0gxh0Gp66NGJXnZsjDWs2vM1/config.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-1770K2JYLH"
+  ],
+  "errores": [],
+  "bytes": 630032
+}
